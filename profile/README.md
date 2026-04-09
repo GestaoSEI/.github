@@ -41,15 +41,14 @@ docker-compose up --build -d
 git clone https://github.com/GestaoSEI/gestao-sei-frontend.git
 cd gestao-sei-frontend
 npm install && npm run dev
-```
 
-Acesse **http://localhost:5173** · Login inicial: `admin` / `admin123`
+Acesse http://localhost:5173 · Login inicial: admin / admin123
+
+---
+
+📄 Licença
+MIT License — veja o arquivo LICENSE em cada repositório.
 
 ---
 
-## 📄 Licença
-
-MIT License — veja o arquivo `LICENSE` em cada repositório.
-
----
 Made with ❤️ by Gilvaneide Medeiros
