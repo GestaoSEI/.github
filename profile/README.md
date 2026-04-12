@@ -81,7 +81,8 @@ Acesse **http://localhost:5173** · Login inicial: `admin` / `admin123`
 
 ## 📄 Licença
 
-MIT License — veja o arquivo `LICENSE` em cada repositório.
+MIT License — veja o arquivo LICENSE em cada repositório:
+[gestao-sei-backend/LICENSE](https://github.com/GestaoSEI/gestao-sei-backend/blob/main/LICENSE) · [gestao-sei-frontend/LICENSE](https://github.com/GestaoSEI/gestao-sei-frontend/blob/main/LICENSE)
 
 ---
 Made with ❤️ by Gilvaneide Medeiros
