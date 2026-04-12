@@ -1,8 +1,8 @@
-<div align="center">
-  <img src="assets/logo.png" alt="Gestão SEI Logo" width="120" />
-  <h1>Gestão SEI</h1>
-  <p><strong>Sistema open source para controle de prazos e tramitação de processos do SEI, desenvolvido para servidores públicos.</strong></p>
-</div>
+# Gestão SEI
+
+![Gestão SEI Logo](assets/logo.png)
+
+> Sistema open source para controle de prazos e tramitação de processos do SEI, desenvolvido para servidores públicos.
 
 O **Gestão SEI** automatiza o acompanhamento de processos administrativos do Sistema Eletrônico de Informações (SEI), reduzindo o risco de perda de prazos e facilitando o registro histórico de tramitações.
 
@@ -13,7 +13,7 @@ O **Gestão SEI** automatiza o acompanhamento de processos administrativos do Si
 ## 📦 Repositórios
 
 | Repositório | Descrição | Stack |
-|---|---|---|
+| --- | --- | --- |
 | [gestao-sei-backend](https://github.com/GestaoSEI/gestao-sei-backend) | API REST, autenticação JWT e geração de relatórios PDF | Java 21 · Spring Boot 3.5 · PostgreSQL 16 · Docker |
 | [gestao-sei-frontend](https://github.com/GestaoSEI/gestao-sei-frontend) | Interface web SPA com roteamento e controle de perfis | React 19 · TypeScript · Vite |
 
@@ -35,27 +35,28 @@ O **Gestão SEI** automatiza o acompanhamento de processos administrativos do Si
 ## 🖼️ Telas do Sistema
 
 ### Acesso ao Sistema
-<img src="assets/Tela_login.png" alt="Tela de Login" width="100%" />
 
-<details>
-<summary>Ver mais telas</summary>
+![Tela de Login](assets/Tela_login.png)
 
 ### Recuperação de Senha
-<img src="assets/Tela_login_reset_senha.png" alt="Tela de Reset de Senha" width="100%" />
+
+![Tela de Reset de Senha](assets/Tela_login_reset_senha.png)
 
 ### Gestão de Processos — Perfil ADMIN
-<img src="assets/Tela_gestao_processos_admin.png" alt="Gestão de Processos (ADMIN)" width="100%" />
+
+![Gestão de Processos (ADMIN)](assets/Tela_gestao_processos_admin.png)
 
 ### Gestão de Processos — Perfil USER
-<img src="assets/Tela_gestao_processos_user.png" alt="Gestão de Processos (USER)" width="100%" />
+
+![Gestão de Processos (USER)](assets/Tela_gestao_processos_user.png)
 
 ### Gestão de Usuários
-<img src="assets/Tela_gestao_usuarios.png" alt="Gestão de Usuários" width="100%" />
+
+![Gestão de Usuários](assets/Tela_gestao_usuarios.png)
 
 ### Histórico de Processos
-<img src="assets/Tela_historico_processos.png" alt="Histórico de Processos" width="100%" />
 
-</details>
+![Histórico de Processos](assets/Tela_historico_processos.png)
 
 ---
 
@@ -75,7 +76,7 @@ cd gestao-sei-frontend
 npm install && npm run dev
 ```
 
-Acesse **http://localhost:5173** · Login inicial: `admin` / `admin123`
+Acesse <http://localhost:5173> · Login inicial: `admin` / `admin123`
 
 ---
 
