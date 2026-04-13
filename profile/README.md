@@ -26,6 +26,7 @@ O **Gestão SEI** automatiza o acompanhamento de processos administrativos do Si
 - 🔍 **Busca e filtros** por termo, status, unidade e prazo
 - 📜 **Histórico automático** de tramitações (status e unidade) com usuário responsável
 - ⏰ **Alertas de prazo** — sinalização de urgência e marcação automática `EXPIRADO`
+- ↕️ **Ordenação por prazo final** na listagem e no PDF (maior prazo primeiro, vazios ao final)
 - 📄 **Relatório PDF** dinâmico com filtros via JasperReports
 - 👥 **Gestão de usuários** — criar, editar, excluir e redefinir senhas
 - 📥 **Importação de CSV** — integração de planilha existente com detecção automática de duplicatas
