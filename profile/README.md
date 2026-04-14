@@ -46,10 +46,13 @@ O **Gestão SEI** automatiza o acompanhamento de processos administrativos do Si
 ### Gestão de Processos — Perfil ADMIN
 
 ![Gestão de Processos (ADMIN)](assets/Tela_gestao_processos_admin.png)
+Dados fictícios
 
 ### Gestão de Processos — Perfil USER
 
 ![Gestão de Processos (USER)](assets/Tela_gestao_processos_user.png)
+Dados fictícios
+
 
 ### Gestão de Usuários
 
@@ -58,6 +61,7 @@ O **Gestão SEI** automatiza o acompanhamento de processos administrativos do Si
 ### Histórico de Processos
 
 ![Histórico de Processos](assets/Tela_historico_processos.png)
+Dados fictícios
 
 ---
 
