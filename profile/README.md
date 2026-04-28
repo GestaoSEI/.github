@@ -45,7 +45,7 @@ O **Gestão SEI** automatiza o acompanhamento de processos administrativos do Si
 
 ### Gestão de Processos — Perfil ADMIN
 
-![Gestão de Processos (ADMIN)](assets/Tela_gestao_processos_admin.png)
+![Cadastro de Processos (ADMIN)](assets/Tela_gestao_processos_cadastro.png)
 
 ### Gestão de Processos — Perfil USER
 
