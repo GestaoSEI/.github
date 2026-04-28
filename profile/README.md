@@ -43,7 +43,7 @@ O **Gestão SEI** automatiza o acompanhamento de processos administrativos do Si
 
 ![Tela de Reset de Senha](assets/Tela_login_reset_senha.png)
 
-### Gestão de Processos — Perfil ADMIN
+### Cadastro de Processos — Perfil ADMIN
 
 ![Cadastro de Processos (ADMIN)](assets/Tela_gestao_processos_cadastro.png)
 
