@@ -53,7 +53,7 @@ O **Gestão SEI** automatiza o acompanhamento de processos administrativos do Si
 
 ### Gestão de Usuários
 
-![Gestão de Usuários](assets/Tela_gestao_usuarios.png)
+![Gestão de Usuários](assets/Tela_gestao-usuarios.png)
 
 ### Histórico de Processos
 
