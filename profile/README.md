@@ -30,6 +30,7 @@ O **Gestão SEI** automatiza o acompanhamento de processos administrativos do Si
 - 📄 **Relatório PDF** dinâmico com filtros via JasperReports
 - 👥 **Gestão de usuários** — criar, editar, excluir e redefinir senhas
 - 📥 **Importação de CSV** — integração de planilha existente com detecção automática de duplicatas
+- 📤 **Exportação de CSV** — download completo dos processos cadastrados para uso local, auditoria ou migração
 
 ---
 
@@ -78,6 +79,10 @@ npm install && npm run dev
 ```
 
 Acesse <http://localhost:5173> · Login inicial: `admin` / `admin123`
+
+### Exportação de dados
+
+O backend também oferece exportação direta dos processos em CSV via `GET /api/processos/exportar-csv`, além dos scripts locais de snapshot no repositório backend para backup e exportação em lote.
 
 ---
 
