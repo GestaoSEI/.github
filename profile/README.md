@@ -36,31 +36,9 @@ O **Gestão SEI** automatiza o acompanhamento de processos administrativos do Si
 
 ---
 
-## 🖼️ Telas do Sistema
+## 🎥 Demonstração do Sistema
 
-### Acesso ao Sistema
-
-![Tela de Login](assets/Tela_login.png)
-
-### Recuperação de Senha
-
-![Tela de Reset de Senha](assets/Tela_login_reset_senha.png)
-
-### Cadastro de Processos — Perfil ADMIN
-
-![Cadastro de Processos (ADMIN)](assets/Tela_gestao_processos_cadastro.png)
-
-### Gestão de Processos — Perfil USER
-
-![Gestão de Processos (USER)](assets/Tela_gestao_processos_user.png)
-
-### Gestão de Usuários
-
-![Gestão de Usuários](assets/Tela_gestao-usuarios.png)
-
-### Histórico de Processos
-
-![Histórico de Processos](assets/Tela_historico_processos.png)
+[▶️ Assistir ao vídeo de demonstração do Gestão SEI](assets/demo-gestao-sei.mp4)
 
 ---
 
