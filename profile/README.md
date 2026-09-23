@@ -1,6 +1,6 @@
 # Gestão SEI
 
-![Gestão SEI Logo](assets/logo.gif)
+![Gestão SEI Logo](assets/logo.png)
 
 > Sistema open source para controle de prazos e tramitação de processos do SEI, desenvolvido para servidores públicos.
 
