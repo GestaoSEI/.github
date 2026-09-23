@@ -40,6 +40,8 @@ O **Gestão SEI** automatiza o acompanhamento de processos administrativos do Si
 
 [▶️ Assistir ao vídeo de demonstração do Gestão SEI](https://youtu.be/tbfftwxiqTs)
 
+[📘 Consultar o Manual do Usuário](MANUAL_USUARIO.md)
+
 ---
 
 ## 🚀 Como Executar
