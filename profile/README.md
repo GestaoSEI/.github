@@ -24,10 +24,12 @@ O **Gestão SEI** automatiza o acompanhamento de processos administrativos do Si
 - 🔐 **Autenticação JWT** com perfis `ADMIN` e `USER`
 - 📋 **CRUD de processos** com número no padrão SEI (`9999.9999/9999999-9`)
 - 🔍 **Busca e filtros** por termo, status, unidade e prazo
+- 📊 **Dashboard gerencial** com indicadores percentuais e gráficos por status, unidade e faixa de prazo
+- 🖱️ **Dashboard interativo** com filtros aplicados diretamente pelos gráficos
 - 📜 **Histórico automático** de tramitações (status e unidade) com usuário responsável
 - ⏰ **Alertas de prazo** — sinalização de urgência e marcação automática `EXPIRADO`
 - ↕️ **Ordenação por prazo final** na listagem e no PDF (maior prazo primeiro, vazios ao final)
-- 📄 **Relatório PDF** dinâmico com filtros via JasperReports
+- 📄 **Relatório PDF** dinâmico com filtros via JasperReports, data e horário de emissão
 - 👥 **Gestão de usuários** — criar, editar, excluir e redefinir senhas
 - 📥 **Importação de CSV** — integração de planilha existente com detecção automática de duplicatas
 - 📤 **Exportação de CSV** — download completo dos processos cadastrados para uso local, auditoria ou migração
