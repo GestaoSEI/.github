@@ -38,7 +38,7 @@ O **Gestão SEI** automatiza o acompanhamento de processos administrativos do Si
 
 ## 🎥 Demonstração do Sistema
 
-[▶️ Assistir ao vídeo de demonstração do Gestão SEI](assets/demo-gestao-sei.mp4)
+[▶️ Assistir ao vídeo de demonstração do Gestão SEI](https://youtu.be/tbfftwxiqTs)
 
 ---
 
